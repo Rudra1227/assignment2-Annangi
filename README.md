@@ -18,4 +18,13 @@
       -dresses
       -food
            
-     https://github.com/Rudra1227/assignment2-Annangi/blob/main/Aboutme.md      
+     https://github.com/Rudra1227/assignment2-Annangi/blob/main/Aboutme.md
+# Food items and drinks
+Food items and drinks where can we get the items and who want to pay the bills for this items.
+ 
+|Food/driknk |location | Amount shoulb be payed|
+|------------|---------|-----------------------|
+|Biryani     |Hyderabad| Hareesh               |
+|ICE cream   |Guntur   | Javeed                |
+|Faluda      |Kukatpall| Manikanta             |
+|Mandi       |Madhapur | Shiva krishna         |      
